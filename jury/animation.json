@@ -22,20 +22,20 @@
     "erick_oh": {
       "en": {
         "name": "Erick Oh",
-        "short_info": "Erick Oh is a Korean filmmaker / artist based in California, USA. ",
+        "short_info": "Korean filmmaker / artist based in California, USA. ",
         "full_info": "Erick Oh is a Korean filmmaker / artist based in California, USA. His work has been introduced and nominated at numerous international film festivals and galleries including Academy Awards, Annecy Animation Festival, Hiroshima Animation Festival, Zagreb Film Festival, SIGGRAPH, Anima Mundi and Ars Electronica. After receiving his BFA from Fine Art Department at Seoul National University and his MFA from UCLA’s film program, Erick joined Pixar Animation Studios as an animator where he has worked on Oscar winning Pixar movies including 'Inside Out' (2015) and 'Brave' (2012).
     SIGGRAPH
     www.erickoh.com"
       },
       "ru": {
         "name": "Эрик О",
-        "short_info": "Эрик О - корейский фильммейкер и художник из Калифорнии, США",
+        "short_info": "Корейский фильммейкер и художник из Калифорнии, США",
         "full_info": "Эрик О - корейский фильммейкер и художник из Калифорнии, США. Его работы были представлены и отмечены многими арт-галереями и на многочисленных международных кинофестивалях, включая Academy Awards, Фестиваль Анимации в Анси, Фестиваль Анимации в Хиросиме, Кинофестиваль в Загребе, Фестиваль Компьютерной Анимации SIGGRAPH, Фестиваль Anima Mundi и Ars Electronica. После получения степени Бакалавра на Факультете изобразительных искусств в Сеульском Национальном Университете, а затем степени Магистра искусств в области кино в Калифорнийском Университете, Эрик устроился в Студию Pixar в качестве аниматора, где он принимал участие в создании оскароносных фильмов “Головоломка” (2015) и “Храбрая Сердцем” (2012).
 www.erickoh.com"
       },
       "be": {
         "name": "Эрык О",
-        "short_info": "Эрык О - карэйскi фiльммэйкер i мастак, што жыве ў Калiфорнii, ЗША.",
+        "short_info": "Карэйскi фiльммэйкер i мастак, што жыве ў Калiфорнii, ЗША.",
         "full_info": "Эрык О - карэйскi фiльммэйкер i мастак, што жыве ў Калiфорнii, ЗША. Яго працы былi адзначаныя і прадстаўленыя вядомымi галерэямi i на шматлiкiх iнтэрнацыянальных фестывалях, такix як Academy Awards, Фестываль Анiмацыйных фiльмаў у Ансi ды ў Херасiме, Кiнафестываль ў Заграбе, Фестываль камп'ютэрнай анiмацыi SIGGRAPH, фестывалі Anima Mundi i Ars Electronica. Атрымаўшы ступень Бакалаўра на Факультэце выяўленчага мастацтва ў Сеульскiм Нацыянальным унiверсiтэце, а таксама ступень Магiстра мастацтваў у галiне кiнематаграфii, Эрык распачаў працу ў студыi Pixar, дзе прымаў удзел у стварэннi оскараносных анiмацыйных фiльмаў \"Галаваломка\" (2015) i \"Адважная сэрцам\" (2012).
 www.erickoh.com "
       },
@@ -44,28 +44,72 @@ www.erickoh.com "
     "piotr_cardas": {
       "en": {
         "name": "Piotr Kardas",
-        "short_info": "PIOTR KARDAS (1984), initiator and director of O!PLA - THE FESTIVAL OF POLISH ANIMATION (2013-) and ANIMATION ACROSS BORDERS PROJECT (2012-)",
-        "full_info": "PIOTR KARDAS (1984), initiator and director of O!PLA - THE FESTIVAL OF POLISH ANIMATION (2013-) and ANIMATION ACROSS BORDERS PROJECT (2012-); curator, juror, initiator and coordinator of various cultural and artistic projects. He studied Film Theory and New Media (University of Lodz, PL). In 2010 - 2012 he working for Se-ma-for Film Production as a distributor and Se-ma-for Film Foundation as an initiator and coordinator of special events (i.a. Se-Ma-For European/Asian Express 2011: Beijing/Madrid/Tokio/Paris) and a program director of two first editions of Se-Ma-For Film Festival (2010/2011). Initiator and coordinator of Animation Section & Competition at ARS INDEPENDENT International Film Festival in Katowice (2012) and evolving program SCARY PUPPETS & SEXY DOLLS (2010), among others. In 2008 – 2010 he was a program director in one of the most famous arthouse cinema in Poland - Charlie Cinema"
+        "short_info": "Initiator and director of O!PLA - THE FESTIVAL OF POLISH ANIMATION (2013-) and ANIMATION ACROSS BORDERS PROJECT (2012-)",
+        "full_info": "Initiator and director of O!PLA - THE FESTIVAL OF POLISH ANIMATION (2013-) and ANIMATION ACROSS BORDERS PROJECT (2012-); curator, juror, initiator and coordinator of various cultural and artistic projects. He studied Film Theory and New Media (University of Lodz, PL). In 2010 - 2012 he working for Se-ma-for Film Production as a distributor and Se-ma-for Film Foundation as an initiator and coordinator of special events (i.a. Se-Ma-For European/Asian Express 2011: Beijing/Madrid/Tokio/Paris) and a program director of two first editions of Se-Ma-For Film Festival (2010/2011). Initiator and coordinator of Animation Section & Competition at ARS INDEPENDENT International Film Festival in Katowice (2012) and evolving program SCARY PUPPETS & SEXY DOLLS (2010), among others. In 2008 – 2010 he was a program director in one of the most famous arthouse cinema in Poland - Charlie Cinema"
       },
       "ru": {
         "name": "Петр Кардас",
-        "short_info": "Петр Кардас (р.1984), инициатор и руководитель Фестиваля Польской Анимации “O!PLA” (c 2013 года) и проекта “ANIMATION ACROSS BORDERS” (с 2012 года)",
-        "full_info": "Петр Кардас (р.1984), инициатор и руководитель Фестиваля Польской Анимации “O!PLA” (c 2013 года) и проекта “ANIMATION ACROSS BORDERS” (с 2012 года); куратор, член жюри, инициатор и координатор различных культурных и художественных проектов. Изучал теорию кино и новые медиа в Университете г. Лодзь (Польша). В 2010-2012 гг. работал в кинокомпании “Se-ma-for” в качестве дистрибьютора и в фонде “Se-ma-for” в качестве инициатора и координатора специальных мероприятий (например, “Se-ma-for Европейский/Азиатский Экспресс 2011: Пекин/Мадрид/Токио/Париж”), а также в качестве программного директора первых двух выпусков кинофестиваля “Se-ma-for” (2010-2011). Инициатор и координатор секции анимации и конкурсной программы на международном кинофестивале “ARS INDEPENDENT” в Катовице (2012) и составитель программы “SCARY PUPPETS & SEXY DOLLS” (2010). В 2008-2010 гг. был программным директором одного из самых известных в Польше артхаус-кинотеатров “Charlie Cinema”."
+        "short_info": " Инициатор и руководитель Фестиваля Польской Анимации “O!PLA” (c 2013 года) и проекта “ANIMATION ACROSS BORDERS” (с 2012 года)",
+        "full_info": "Инициатор и руководитель Фестиваля Польской Анимации “O!PLA” (c 2013 года) и проекта “ANIMATION ACROSS BORDERS” (с 2012 года); куратор, член жюри, инициатор и координатор различных культурных и художественных проектов. Изучал теорию кино и новые медиа в Университете г. Лодзь (Польша). В 2010-2012 гг. работал в кинокомпании “Se-ma-for” в качестве дистрибьютора и в фонде “Se-ma-for” в качестве инициатора и координатора специальных мероприятий (например, “Se-ma-for Европейский/Азиатский Экспресс 2011: Пекин/Мадрид/Токио/Париж”), а также в качестве программного директора первых двух выпусков кинофестиваля “Se-ma-for” (2010-2011). Инициатор и координатор секции анимации и конкурсной программы на международном кинофестивале “ARS INDEPENDENT” в Катовице (2012) и составитель программы “SCARY PUPPETS & SEXY DOLLS” (2010). В 2008-2010 гг. был программным директором одного из самых известных в Польше артхаус-кинотеатров “Charlie Cinema”."
       },
       "be": {
         "name": "Пётр Кардас",
-        "short_info": "Пётр Кардас (р.1984), ініцыятар і кіраўнік Фестывалю Польскай Анімацыі \"O!PLA\" (з 2013 года) і праекта “ANIMATION ACROSS BORDERS” (з 2012 года)",
-        "full_info": "Пётр Кардас (р.1984), ініцыятар і кіраўнік Фестывалю Польскай Анімацыі \"O!PLA\" (з 2013 года) і праекта “ANIMATION ACROSS BORDERS” (з 2012 года); куратар, чалец журы, ініцыятар і каардынатар розных культурных і мастацкіх праектаў. Вывучаў тэорыю кіно і новыя медыя ва Ўніверсітэце г. Лодзь (Польшча). У 2010-2012 гг. працаваў у кінакампаніі \"Se-ma-for\" у якасці дыстрыбутара і ў фондзе \"Se-ma-for\" у якасці ініцыятара і каардынатара спецыяльных мерапрыемстваў (напрыклад, \"Se-ma-for Еўрапейскі/Азіяцкі Экспрэс 2011 года: Пекін/Мадрыд/Токіо/Парыж\"), а таксама ў якасці праграмнага дырэктара першых двух выпускаў кінафестывалю \"Se-ma-for\" (2010/2011). Ініцыятар і каардынатар секцыі анімацыі і конкурснай праграмы на міжнародным кінафестывалі \"ARS INDEPENDENT\" у Катавіцэ (2012) і распрацоўнік праграмы \"SCARY PUPPETS & SEXY DOLLS\" (2010). У 2008-2010 гг. быў праграмным дырэктарам аднаго з самых вядомых у Польшчы артхаўс-кінатэатраў “Charlie Cinema”."
+        "short_info": "Iніцыятар і кіраўнік Фестывалю Польскай Анімацыі \"O!PLA\" (з 2013 года) і праекта “ANIMATION ACROSS BORDERS” (з 2012 года)",
+        "full_info": "Iніцыятар і кіраўнік Фестывалю Польскай Анімацыі \"O!PLA\" (з 2013 года) і праекта “ANIMATION ACROSS BORDERS” (з 2012 года); куратар, чалец журы, ініцыятар і каардынатар розных культурных і мастацкіх праектаў. Вывучаў тэорыю кіно і новыя медыя ва Ўніверсітэце г. Лодзь (Польшча). У 2010-2012 гг. працаваў у кінакампаніі \"Se-ma-for\" у якасці дыстрыбутара і ў фондзе \"Se-ma-for\" у якасці ініцыятара і каардынатара спецыяльных мерапрыемстваў (напрыклад, \"Se-ma-for Еўрапейскі/Азіяцкі Экспрэс 2011 года: Пекін/Мадрыд/Токіо/Парыж\"), а таксама ў якасці праграмнага дырэктара першых двух выпускаў кінафестывалю \"Se-ma-for\" (2010/2011). Ініцыятар і каардынатар секцыі анімацыі і конкурснай праграмы на міжнародным кінафестывалі \"ARS INDEPENDENT\" у Катавіцэ (2012) і распрацоўнік праграмы \"SCARY PUPPETS & SEXY DOLLS\" (2010). У 2008-2010 гг. быў праграмным дырэктарам аднаго з самых вядомых у Польшчы артхаўс-кінатэатраў “Charlie Cinema”."
       },
       "photo": "piotr_cardas.jpg"
     },
     "hannah_harkes":{
       "en":  {
         "name": "Hannah Harkes",
-        "short_info": "",
-        "full_info": "",
-        "photo": ""
+        "short_info": "CG-supervisor at the ‘Vipline’ animation studio",
+        "full_info": "Vadim Hradich is the Arts Academy graduate in Classical Animation. He has a 5-year experience in teaching the ‘Basics of Classical Animation’ course at the Belarusian Arts Academy. A spokesperson at various computer graphics events, such as the “CGEVENT” (cgevent.ru) and “Gravity CG” (gravity.by). His main field of activity encompasses 2D and 3D animation, as well as CG-supervising.  Has a 12 years’ work experience in the field.
+Currently a CG-supervisor at the ‘Vipline’ animation studio (vipline.by). The studio works, created with his contribution, have been distinguished at several international festivals, including the ‘Kiev Festival of Advertising’, ‘ADNAK’, the ‘Krok’ animation festival and the ‘Suzdal Animation Festival’.
+
+Email: vadimouz@gmail.com
+Website: www.vipline.by",
       },
+      "ru": {
+        "name": "Ханна Хэркс",
+        "short_info": "Шотландская художница, член эстамп-мастерской и коллектива художников Grafodroom",
+        "full_info": "Ханна Хэркс - шотландская художница (р.1989), с 2011 в основном проживающая в Эстонии. Она является членом эстамп-мастерской и коллектива художников Grafodroom, а также мастером по типографии в Украинском Культурном Центре. В своих художественных работах она всегда стремится достигать особого баланса между подлинностью и абсурдом. Она сочетает рисование, эстамп, движущееся изображение и инсталляцию. Ее визуальная работа часто представляется вместе с партисипаторными событиями, на  которых она исследует нестандартные структуры совместного обучения."
+      },
+      "be": {
+        "name": "Ганна Хэркс",
+        "short_info": "мастачка шатландскага паходжання, чальц эстамп-майстэрнi i калектыву мастакоў Grafodroom",
+        "full_info": "Ганна Хэркс (1989 г. н.) - мастачка шатландскага паходжання, якая з 2011 года пераважна жыве ў Эстонii. Яна з'яўляецца чальцом эстамп-майстэрнi i калектыву мастакоў Grafodroom, а таксама майстрам па тыпаграфii ва Украiнскiм цэнтры культуры. У сваёй творчасцi Ганна заўсёды iмкнецца да балансу памiж аўтэнтычнасцю i абсурднасцю, спалучае маляванне, эстамп, рухомыя выявы i iнсталяцыi. Прэзентуючы свае творы, Ганна часта задзейнiчае гледачоў, што дазваляе ёй даследваць незвычайныя структуры для сумеснага навучання."
+      },
+      "photo": "hannah_harkes.jpg"
+    }
+    "vadim_hradich": {
+      "en": {
+        "name": "Vadim Hradich",
+        "short_info": "CG-supervisor at the ‘Vipline’ animation studio (vipline.by)",
+        "full_info": "Vadim Hradich is the Arts Academy graduate in Classical Animation. He has a 5-year experience in teaching the ‘Basics of Classical Animation’ course at the Belarusian Arts Academy. A spokesperson at various computer graphics events, such as the “CGEVENT” (cgevent.ru) and “Gravity CG” (gravity.by). His main field of activity encompasses 2D and 3D animation, as well as CG-supervising.  Has a 12 years’ work experience in the field.
+Currently a CG-supervisor at the ‘Vipline’ animation studio (vipline.by). The studio works, created with his contribution, have been distinguished at several international festivals, including the ‘Kiev Festival of Advertising’, ‘ADNAK’, the ‘Krok’ animation festival and the ‘Suzdal Animation Festival’.
+
+Email: vadimouz@gmail.com
+Website: www.vipline.by"
+      },
+      "ru": {
+        "name": "Вадим Градич",
+        "short_info": "CG-супервайзер анимационной студии “Vipline” (vipline.by)",
+        "full_info": "Вадим Градич
+Выпускник курса “Классическая анимация” при Академии Искусств. Опыт преподавание в Белоруской Академии Искусств по дисциплине “Основы классической анимации”, 5 лет. Спикер мероприятий, посвященных компьютерной графике “CGEVENT” (cgevent.ru) и “Притяжение CG” (gravity.by). Основной вид деятельности – 2D, 3D анимация, CG-супервайзинг. Опыт работы 12 лет.
+В данный момент CG-супервайзер анимационной студии “Vipline” (vipline.by). Работы студии, в создании которых принимал участия, отмечены на международных фестивалях “Киевский фестиваль рекламы”, “ADNAK”, анимационных фестивалях “Крок” и “Суздальский анимационный фестиваль”.
+Email: vadimouz@gmail.com
+Website: www.vipline.by"
+      },
+      "be": {
+        "name": "Вадзім Градзіч",
+        "short_info": "CG-супервайзер анімацыйнай студыі “Vipline” (vipline.by)",
+        "full_info": "Вадзім Градзіч
+Выпускнік курса “Класічная анімацыя” пры Акадэміі Мастацтваў. Досвед выкладніцтва ў Беларускай Акадэміі Мастацтваў па дысцыпліне “Асновы класічнай анімацыі” - 5 гадоў. Спікер мерапрыемстваў, якія прысвечаныя камп’ютарнай графіцы “CGEVENT” (cgevent.ru) і “Прыцяганне CG” (gravity.by). Асноўны від дзейнасці - 2D, 3D анімацыя, CG-супервайзынг. Досвед працы - 12 гадоў. 
+У дадзены момант CG-супервайзер анімацыйнай студыі “Vipline” (vipline.by). Працы студыі, у стварэнні якіх Вадзім прымаў удзел, былі адзначаны на міжнародных фестывалях “Кіеўскі фестываль рэкламы”, “ADNAK”, анімацыйных фестывалях “Крок” і “Суздальскі анімацыйны фестываль”.
+email: vadimouz@gmail.com
+Сайт: www.vipline.by"
+      },
+      "photo": "vadim_hradich.jpg"
     }
   }
 }
