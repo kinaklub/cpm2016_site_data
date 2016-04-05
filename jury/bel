@@ -1,0 +1,23 @@
+{
+  "program": "bel for ana",
+  "members": {
+    "bel_jury_member_name": {
+      "en": {
+        "name": "name",
+        "short_info": "",
+        "full_info": ""
+      },
+      "ru": {
+        "name": "name",
+        "short_info": "",
+        "full_info": ""
+      },
+      "be": {
+        "name": "name",
+        "short_info": "",
+        "full_info": ""
+      },
+      "photo": ""
+    },
+  }
+}
