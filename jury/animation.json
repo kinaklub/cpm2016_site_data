@@ -1,24 +1,6 @@
 {
   "program": "anim",
   "members": {
-    "template": {
-      "en": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "ru": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "be": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "photo": ""
-    },
     "erick_oh": {
       "en": {
         "name": "Erick Oh",
