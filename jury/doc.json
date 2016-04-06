@@ -1,24 +1,6 @@
 {
   "program": "doc",
   "members": {
-    "template": {
-      "en": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "ru": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "be": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
-      },
-      "photo": ""
-    },
     "selina_crammond": {
       "en": {
         "name": "Selina Crammond",
