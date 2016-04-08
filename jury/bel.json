@@ -1,21 +1,67 @@
 {
   "program": "bel for ana",
   "members": {
-    "bel_jury_member_name": {
+    "Tatiana Bembel": {
       "en": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
+        "name": "Tatiana Bembel",
+        "short_info": "Art historian, art critic, gallerist, curator, art-manager, documentaries scriptwriter, iniciator and manager of international art and culture projects, lecturer, member of artistic dynasty.",
+        "full_info": "In 1999 she iniciated the creating of EHU Gallery (European Humanitarian University in Minsk), first university gallery in Belarus, and was its director until 2004. In 2003-2013 was head of Municipal Art Gallery of L.D. Shchamialiou’s works in Minsk. In 2011-2012 she was hosting TV-show “Culture Passions” (Belteleradiocompany). Since 2014 she has been curating TUT.BY Gallery and is now a senior lecturer at the Culturology and Psychological-Pedagogical Disciplins Department (Belarusian State University of Culture and Arts)."
       },
       "ru": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
+        "name": "Татьяна Бембель",
+        "short_info": "Искусствовед, арт-критик, галерист, куратор, арт-менеджер, сценарист документального кино, инициатор и руководитель международных проектов в области культуры и искусства, преподаватель. Представитель творческой династии. ",
+        "full_info": "С 1999 по 2004 –  инициатор создания и директор Галереи ЕГУ (Европейского гуманитарного университета в Минске), первой университетской галереи в Беларуси. В 2003-2013 – руководитель Городской художественной галереи произведений Л. Щемелева в Минске, в 2011-2012 - ведущая ТВ-программы «Страсти по культуре» (Белгостелерадиокомпания, канал ЛАД). С 2014 по настоящее время – куратор Галереи TUT.BY и старший преподаватель кафедры культурологии и психолого-педагогических дисциплин Института культуры Беларуси."
       },
       "be": {
-        "name": "name",
-        "short_info": "",
-        "full_info": ""
+        "name": "Таццяна Бембель",
+        "short_info": "Мастацтвазнаўца, арт-крытык, галерыстка, куратарка, арт-менеджэрка, сцэнарыстка дакументальнага кіно, ініцыятарка і кіраўніца міжнародных праектаў у галіне культуры і мастацтва, выкладчыца. Прадстаўніца творчай дынастыі.",
+        "full_info": "З 1999 па 2004 - ініцыятарка стварэння і дырэктарка Галерэі ЕГУ (Еўрапейскага гуманітарнага ўніверсітэта ў Мінску), першай універсітэцкай галерэі ў Беларусі. У 2003-2013 - кіраўніца Гарадской мастацкай галерэі твораў Л. Шчамялёва ў Мінску, у 2011-2012 - вядучая ТБ-праграмы «Страсці па культуры» (Белдзяржтэлерадыёкампанія, канал ЛАД). З 2014 па цяперашні час - куратарка Галерэі TUT.BY і старшая выкладчыца кафедры культуралогіі і псіхолага-педагагічных дысцыплін Інстытута культуры Беларусі."
+      },
+      "photo": ""
+    },
+    "Darya Amelkovich": {
+      "en": {
+        "name": "Darya Amelkovich",
+        "short_info": "Journalist, critic. Observer of the “Kultura” (“Culture”) newspaper. Has publications in the “Mastatstva” (“The Art”), “Na ekranah” (“On the screens”) magazines, web-almanac Photoscope.by, on the web-site “Novaya Evropa” (“New Europe”), in the “Nasha Niva” (“Our Field”) newspaper and other media. ",
+        "full_info": "Graduated from the the Faculty of Journalism of the Belarusian State University (2000), obtained a Master’s degree at the European Humanities University (specialty “Visual and Cultural Studies”, 2008). 
+Area of expertise - photography and national cinema; war movie, animation.
+Member of the jury of the International Festival "Listapad" (Minsk, 2005), the International Animated Film Festival "Anіmaiouka" (Mogilev, 2009, 2012, 2013, 2015).   
+Member of the Association of critics and photo curators “Argentum”."
+      },
+      "ru": {
+        "name": "Дарья Амелькович",
+        "short_info": "Журналист, критик. Обозреватель газеты «Культура». Публиковалась в журналах «Мастацтва», «На экранах», веб-альманахе Photoscope.by, сайте «Новая Европа», газете «Наша Ніва» и др. медиа.",
+        "full_info": "Окончила журфак Белорусского государственного университета (2000), магистратуру Европейского гуманитарного университета (специализация «Визуальные и культурные исследования», 2008). Сфера интересов – фотография и национальный кинематограф; военное кино, анимация.
+Член жюри Международного фестиваля «Лістапад» (Минск, 2005), Международного фестиваля анимационных фильмов «Анімаёўка» (Могилёв, 2009, 2012, 2013, 2015).
+Член Ассоциации критиков и фотокураторов «Argentum»."
+      },
+      "be": {
+        "name": "Дар’я Амяльковіч",
+        "short_info": "Журналістка, крытык. Аглядальніца газеты «Культура». Публікавалася ў часопісах «Мастацтва», «На экранах», вэб-альманаху Photoscope.by, сайце «Новая Еўропа», газеце «Наша Ніва» и інш. медыя.",
+        "full_info": "Скончыла журфак Беларускага дзяржаўнага універсітэта (2000), магістратуру Еўрапейскага гуманітарнага універсітэта (спецыялізацыя “Візуальныя і культурныя даследавання”, 2008). Сфера цікавасцей - фатаграфія і нацыянальны кінематограф; ваеннае кіно, анімацыя.
+Чалец журы Міжнароднага фестывалю «Лістапад» (Мінск, 2005), Міжнароднага фестывалю анімацыйных фільмаў «Анімаёўка» (Магілёў, 2009, 2012, 2013, 2015).
+Чалец Асацыяцыі крытыкаў и фотакуратараў «Argentum»."
+      },
+      "photo": ""
+    },
+    "Roman Romanov": {
+      "en": {
+        "name": "Roman Romanov",
+        "short_info": "Roman Romanov, born in 1975, is a director, screenwriter, producer and TV editor.",
+        "full_info": "He graduated from the Belarusian State Academy of Arts (2001) and the film directing courses Fabrika Kino/Factory of Cinema (Moscow, 2004).
+His main interests lie in documentaries, popular science films and documentary journalism. He collaborated with the following channels: RTR /Russian television and radio (2005-2006), RT/Russia Today (the Arabic version, 2006-2009), Psikhologiya-21/Psychology-21 (2009-2013); was producing commercial videos in the meantime. In 2013-2014, he taught the basics of television directing at the European Humanities University. More recently, he has been collaborating with independent TV-channels and producers and experimenting at the border of television formats and the Internet."
+      },
+      "ru": {
+        "name": "Романов Роман",
+        "short_info": "Романов Роман Владимирович (р.1975) - режиссёр, сценарист, продюсер, телередактор.",
+        "full_info": "Закончил Белорусскую академию искусств (2001), режиссёрские курсы "Фабрика кино" (Москва, 2004).
+Основные интересы и работы -  в сфере документального кино, науч-попа, документальной публицистики. Сотрудничал с телеканалами РТР (2005-2006г), RT (арабская редакция, 2006-2009), «Психология 21» (2009-2013). Параллельно режиссировал рекламные ролики. Преподавал в ЕГУ (2013-2014 г.) основы режиссуры телевидения. В последнее время сотрудничает с независимыми телеканалами и продюсерами, а также экспериментирует на стыке телевизионных форматов и интернета."
+      },
+      "be": {
+        "name": "Раманаў Раман",
+        "short_info": "Раманаў Раман Уладзіміравіч (н.1975) - рэжысёр, сцэнарыст, прадзюсар, тэлерэдактар.",
+        "full_info": "Скончыў Беларускую акадэмію мастацтваў (2001), рэжысёрскія курсы "Фабрика кино" (Масква, 2004).
+Кола яго прафесійных інтарэсаў ахоплівае жанры дакументальнага, навукова-папулярнага кіно, дакументальнай публіцыстыкі. Супрацоўнічаў з тэлеканаламі РТР (2005-2006), RT (арабская рэдакцыя, 2006-2009), «Психология 21»(2009-2013); паралельна рэжысаваў рэкламныя ролікі. Выкладаў у ЕГУ асновы рэжысуры тэлебачання (2013-2014). Апошнім часам супрацоўнічае з незалежнымі тэлеканаламі і прадзюсарамі, а таксама эксперыментуе на стыку тэлевізійных фарматаў і інтэрнэту."
       },
       "photo": ""
     },
