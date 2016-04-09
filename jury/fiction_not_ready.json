@@ -1,5 +1,6 @@
 {
-  members: [
+  "program": "fiction",
+  "members": [
       "Alfredo Suppia": {
       "en": {
         "name": "Alfredo Suppia",
