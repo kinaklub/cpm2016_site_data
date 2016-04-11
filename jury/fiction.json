@@ -1,7 +1,7 @@
 {
   "program": "fiction",
   "members": {
-      "Alfredo_Suppia": {
+      "alfredo_suppia": {
         "en": {
           "name": "Alfredo Suppia",
           "short_info": "Alfredo Suppia is Professor of Film studies in the Film Department (DECINE) at the State University of Campinas (UNICAMP).",
@@ -19,7 +19,7 @@
         },
       "photo": ""
     },
-      "Carin Bräck": {
+      "carin_bräck": {
         "en": {
           "name": "Carin Bräck",
           "short_info": "Carin Bräck is a writer, director, producer and film pedagogue.",
@@ -37,7 +37,7 @@
         },
       "photo": ""
     },
-      "Sanne Jehoul": {
+      "sanne_jehoul": {
         "en": {
           "name": "Sanne Jehoul",
           "short_info": "Sanne Jehoul is the Festival Coordinator of Glasgow Short Film Festival in Scotland. ",
